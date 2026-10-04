@@ -1,0 +1,9 @@
+# Local Power BI state
+**/.pbi/
+**/cache.abf
+**/localSettings.json
+**/unappliedChanges.json
+*.inspect.ndjson
+__pycache__/
+*.pyc
+~$*
